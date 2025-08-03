@@ -1,2 +1,2 @@
-# Projects
-Welcome to my coding portfolio! This repository features projects in data cleaning, pre-processing, analysis, visualisation, and machine learning—highlighting how I apply programming to solve real-world problems and build practical, data-driven solutions.
+# Titanic Project
+This Titanic project covers data cleaning, preprocessing, exploratory analysis, and machine learning in Python, with model comparisons using logistic regression and random forest. It concludes with an interactive Power BI dashboard for key insights.
