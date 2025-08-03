@@ -22,17 +22,14 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
 - [✓] Predictive modelling (Logistic Regression vs Random Forest)
 
 ## 📷 Screenshots
-<img width="600" height="472" alt="Feature Correlation" src="https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e" />
-
-
-<img width="600" height="472" alt="Feature Correlation" src="https://github.com/user-attachments/assets/aef5e2c9-3ab2-456d-a1cb-78e55e70561d" />
-*Figure 1: Correlation heatmap showing relationships between key passenger features.*
-<img width="700" height="394" alt="Power BI Dashboard Main Summary" src="https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5" />
-*Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.*
+<figure>
+  <img width="600" height="472" alt="Feature Correlation" src="https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e" />
+  <figcaption><em>Figure 1: Correlation heatmap showing relationships between key passenger features.</em></figcaption>
+</figure>
 
 <figure>
-  <img width="600" height="472" alt="Feature Correlation" src="https://github.com/user-attachments/assets/aef5e2c9-3ab2-456d-a1cb-78e55e70561d" />
-  <figcaption><em>Figure 1: Correlation heatmap showing relationships between key passenger features.</em></figcaption>
+  <img width="700" height="394" alt="Power BI Dashboard Main Summary" src="https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5" />
+  <figcaption><em>Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.</em></figcaption>
 </figure>
 
 ## 🔍 Key Insights
