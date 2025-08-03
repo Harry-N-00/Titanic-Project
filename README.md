@@ -32,11 +32,11 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
   <figcaption><em>Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.</em></figcaption>
 </figure>
 
-![Feature Correlation](https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e)
+<img src="https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e" width="600" alt="Feature Correlation" />
 
 *Figure 1: Correlation heatmap showing relationships between key passenger features.*
 
-![Power BI Dashboard Main Summary](https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5)
+<img src="https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5" width="700" alt="Power BI Dashboard Main Summary" />
 
 *Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.*
 
