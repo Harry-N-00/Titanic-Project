@@ -22,8 +22,8 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
 - [✓] Predictive modelling (Logistic Regression vs Random Forest)
 
 ## 📷 Screenshots
-<img width="935" height="737" alt="Feature Correlation" src="https://github.com/user-attachments/assets/aef5e2c9-3ab2-456d-a1cb-78e55e70561d" />
-<img width="1187" height="669" alt="Power BI Dashboard Main Summary" src="https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5" />
+<img width="600" height="472" alt="Feature Correlation" src="https://github.com/user-attachments/assets/aef5e2c9-3ab2-456d-a1cb-78e55e70561d" />
+<img width="700" height="394" alt="Power BI Dashboard Main Summary" src="https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5" />
 
 ## 🔍 Key Insights
 - Sex was the strongest predictor of survival: Women had a significantly higher survival rate than men, reflecting the "women and children first" evacuation policy.
