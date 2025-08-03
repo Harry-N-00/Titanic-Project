@@ -32,6 +32,14 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
   <figcaption><em>Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.</em></figcaption>
 </figure>
 
+![Feature Correlation](https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e)
+
+*Figure 1: Correlation heatmap showing relationships between key passenger features.*
+
+![Power BI Dashboard Main Summary](https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5)
+
+*Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.*
+
 ## 🔍 Key Insights
 - Sex was the strongest predictor of survival: Women had a significantly higher survival rate than men, reflecting the "women and children first" evacuation policy.
 - Passenger class influenced survival: First-class passengers had the highest survival rates, while third-class passengers had the lowest - highlighting socioeconomic disparities in access to lifeboats.
