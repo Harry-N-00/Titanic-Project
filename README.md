@@ -22,7 +22,7 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
 - [✓] Predictive modelling (Logistic Regression vs Random Forest)
 
 ## 📷 Screenshots
-<img width="930" height="730" alt="Feature Correlation" src="https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e" />
+<img width="600" height="472" alt="Feature Correlation" src="https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e" />
 
 
 <img width="600" height="472" alt="Feature Correlation" src="https://github.com/user-attachments/assets/aef5e2c9-3ab2-456d-a1cb-78e55e70561d" />
