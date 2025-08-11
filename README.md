@@ -40,14 +40,10 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
 
 ## 📦 Installation (for Python projects & Power BI)
 
-Python:
+### Python:
 ```bash
 git clone https://github.com/Harry-N-00/Titanic-Project.git
 cd Titanic-Project
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-
-Power BI: 
-1. Download the `.pbix` file from this repo
-2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
