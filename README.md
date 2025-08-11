@@ -46,6 +46,6 @@ python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-## 📊 Opening the Dashboard
+**## 📊 Opening the Dashboard**
 1. Download the `.pbix` file from this repo
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
