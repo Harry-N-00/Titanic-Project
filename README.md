@@ -39,6 +39,7 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
 - Random Forest outperformed Logistic Regression: Random Forest captured complex, non-linear patterns in the data, leading to better predictive performance.
 
 ## 📦 Installation (for Python projects & Power BI)
+
 Python:
 ```bash
 git clone https://github.com/Harry-N-00/Titanic-Project.git
