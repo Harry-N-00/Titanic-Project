@@ -38,7 +38,7 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
 - Embarkation port had some effect: Passengers who boarded at Cherbourg (C) had slightly higher survival rates, possibly linked to class distribution.
 - Random Forest outperformed Logistic Regression: Random Forest captured complex, non-linear patterns in the data, leading to better predictive performance.
 
-## 📦 Installation (for Python projects)
+## 📦 Installation (for Python projects & Power BI)
 ```bash
 git clone https://github.com/Harry-N-00/Titanic-Project.git
 cd Titanic-Project
@@ -46,6 +46,5 @@ python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-## **📊 Opening the Dashboard**
 1. Download the `.pbix` file from this repo
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
