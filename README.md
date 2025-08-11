@@ -26,7 +26,7 @@ This project explores the Titanic dataset through data cleaning, preprocessing, 
 
 *Figure 1: Correlation heatmap showing relationships between key passenger features.*
 
-<img src="https://github.com/user-attachments/assets/df5eff2a-cf55-452d-a12a-6b51e12135e5" width="700" alt="Power BI Dashboard Main Summary" />
+<img width="700" height="387" alt="Titanic Dashboard Main Summary Page" src="https://github.com/user-attachments/assets/ec35af4a-2c88-489d-a0fd-88f09c324c00" />
 
 *Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.*
 
@@ -45,3 +45,7 @@ cd Titanic-Project
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+## 📊 Opening the Dashboard
+1. Download the `.pbix` file from this repo
+2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
